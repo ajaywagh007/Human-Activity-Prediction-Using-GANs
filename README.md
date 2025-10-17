@@ -1,5 +1,5 @@
 # Human-Activity-Prediction-Using-GANs
-
+Links to download datasets:
 HON4D Dataset:
 https://sites.google.com/view/wanqingli/data-sets/msr-actionpair
 UT-Interaction Dataset:
